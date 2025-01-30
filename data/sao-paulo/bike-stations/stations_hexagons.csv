@@ -1,0 +1,136 @@
+station_id,station_name,hex_id
+f783d903f92a164bd3a6db3f4c32a333,Estação Praça Panamericana,92x243
+e8bf71e2c22c04b77a244bf10cc57d00,Estação Campinas,118x234
+17bd0aa2c441688fa27f293f6edadacb,Estação Brasil,112x235
+aa15e9fac0391976920464cf24e5fa9f,Estação Berrini,99x218
+d18218272b29e66a67322d945bb6aee0,Estação Helio Pelegrino,109x222
+d12c1c4d18b9dd925d27c82405bbffec,Estação Pedroso,100x240
+6d984b688ffc2b1a662eba08d4aebab4,Estação Cidade Jardim,105x229
+11edcdc74f826738908f3a61432f9e99,Estação Europa,108x233
+774466d26209a6a0497db2c273999bc8,Estação Teatro Renaissance,117x242
+17b7884d52c704aae95e9a73695d093f,Estação Pamplona,119x237
+a8bb568eda668be2797f8cfff86a8685,Estação Parque Vila Lobos,86x249
+6493c9b991c763bcdfd6e81710802b6a,Estação Delfina,99x244
+5221ba46d62620a6a924e24a4ebcfeaa,Estação Vila Olímpia,102x223
+2a136c0f48ad634c262dbf8ec60e2ce3,Estação Oscar Freire,112x240
+bd7b78cc60b86efd8cc452cf8def34bb,Estação Hcor,126x235
+c64e456ca1dbec7b6e87747ec3d5e189,Estação Itapeva,121x240
+279377798a8f6d4ad026fb518cbba9c3,Estação Parque Ibirapuera II,117x224
+b797b597f74af416394c720ae4897ed5,Estação inovaBra,117x244
+fedbe99c4519c675eb74ba1ecffb7f11,105 - Praça João Duram Alonso,100x219
+060b7bd093ab6900379d311100e6c0d7,201 - Metro Sumaré,108x245
+9d077dc12eadaa528e5826b640fdbb97,15 - Rua Prof. Artur Ramos,103x230
+d11f2a14cef28e32ae3ace3a90069534,27 - Rua Min. Jesuíno Cardoso,106x224
+5952855ed553992e8f55e205dd8a150c,28 - Rua Comendador Miguel Calfat,108x224
+df099096ebd238f9baa89f408d37a596,80 - Praça Alexandre de Gusmão,119x239
+2c75fd67d8fade3f07922aa448b07dd8,68 - Praça Nicolau Scarpa,115x236
+8ffe929e3582680c54c4a986c6a26e65,26 - Praça Pierre Germayel,105x223
+9a32d211abcc62fc2f5814f111efd43f,5 - Rua Butantã,97x236
+477dfa927eb3a63d0caaa02865711d3b,11 - Praça Faria Lima,99x238
+6640a44f3f8907b1a1dce4b95ea315f8,16 - Esporte Clube Pinheiros Boliche,101x230
+d0dca73a8f08e1c509447f82de94e696,22 - Rua Leopoldo Couto,105x226
+6f0ce1a3e4a933999494f860ab32ee62,23 - CPTM Vila Olímpia,101x224
+e65375e75ba0ceeeeaa2d6622b505c1d,24 - Rua Funchal,102x224
+480de14d2dd32e279f626429595d0043,25 - Rua Helena,104x224
+55600b94d1c1775e085d9bea33f76a70,234 - Praça Roquete Pinto,96x241
+3ea16b6bbe57ca47b7ca92403940b3c5,50 - Rua Professor Carlos de Carvalho,107x229
+0d7e10bba89bb1ee1d9ba77986f18e5b,236 - Praça Ernami Braga,95x243
+5ad1ce3fb9bacee063f777c040b68016,69 - Oscar Freire,114x238
+fb5c988eb883e94001ef4ec9f98e0c01,230 - Rua Mariano Correia,103x236
+e9e8038b1fc9cfe753a79498fb387843,217 - Alameda Gabriel,109x239
+b69552fa568cd22ac9e14ce92e55e5f1,55 - Jacupiranga,106x236
+7e71cbd6788d58aaedd61c0881887546,6 - Rua Manduri,101x235
+c7365859b27647128effd0e328b82a25,51 - Praça Luiz Delben Junior,107x233
+6785c43c06074593045610cf64ae08ad,107 - Rua Indiana,102x216
+33ff9617bb0d404c64168aa7c3dee391,116 - Praça Dr. Francisco Patti,103x221
+02940bf056c740f6a5631da6dfa0e936,114 - Rua Alvorada,106x220
+66ac962b8bd2726fdedcbdbb1f052eff,64 - Maestro Elias Lobo,113x233
+2edab360f96f8c6db1c9d520b3dd28df,65 - Rua Dr. João Pinheiro,115x233
+24033c4f5277f387a29b718e110781f9,34 - Rua Bastos Pereira,113x227
+69847324413dff0a13e0a6e069e66780,95 - Metrô Brigadeiro,123x237
+9aa8c3dffcf9f0c393d838aca5e5f38a,131 - Pq. Ibirapuera Portão 06,118x224
+acb732cd5739a3bf5962c3fe35f41e1f,1 - Largo da Batata,99x238
+6cc99e8262b312cb73fd462d4fb21a6d,3 - CPTM Pinheiros,95x238
+a4fd2a81cbb2920eb354b4d2efd6b55b,7 - Praça Joaquim Roberto,99x235
+762596561a2c4afca64f4e5999dc53a3,10 - Rua Campo Verde,101x233
+75a2f4d8030c58515bf5754399a99e5e,17 - Rua José Gonçalves de Oliveira,105x229
+a64158898a8d749e13b35cd6d80f47cb,19 - Av. Dr. Cardoso de Melo,101x223
+5cc998f4dfae4dbdba43fc687ae613c0,29 - Rua João Franco,108x225
+da46d3d1b4d93b630dd7125a58e178b6,30 - Bandeira Paulista,110x225
+afd2073e9d39345084fb943deff8b40c,35 - Rua Benedito Lapin,111x227
+ffadea46421981527554ee2448746dcd,36 - E.E. Aristides de Castro,109x228
+df4f6511e3e43387b14226f19a20bb70,38 - Viradouro,106x228
+73fc5c05e102754cdaaddf709804164e,40 - Brasília,111x229
+2a108e7706815bbfd04c91aa9b860783,214 - João Moura,107x243
+f3dd9cc570fe3782e5ae37677b8da918,77 - Alameda j. Eugênio de Lima,120x235
+394eafa2e526fa3192e191e3d0c57c70,101 -  Praça Gen. Gentil Falcão,99x218
+8a06341fa30a5024a685e266af308d90,102 - Rua James Watt,99x215
+bd3b644505874199efe0ddcb198aec00,54 - Colégio Madre Alix,106x234
+eec2e29072bb64c03197d50d6a1f190a,229 - Arthur de Azevedo,103x238
+6da4a64cc25262953ad5862afa24ac0a,56 - Atlântica,108x236
+e63ff536deeebeff0b9f2e6a0093fabe,115 - Praça Procopio Ferreira,102x220
+268b8fef3da2e1845192294c2d23bc9c,221 - Sampaio Vidal 27,107x238
+c647ca6b7a446574b704318eff8007aa,225 - Sampaio Vidal 530,104x236
+1b56f8b66f12485a71261e6cafd1bc7e,211 - Capote Valente,110x241
+f9eadfe39251f6cf9fa31885cfd98140,232 - Sumidouro,98x238
+880d930fe97c5668b05d5538bf35d89a,233 - Paraopeba,96x239
+109306b3a07c5984259ba470235f9402,58 - Mube,108x234
+e59f851da7388ec77e43ebb02fd93c38,57 - Groelândia,109x236
+0394a00c1c86470a59286c4389fd07f4,62 - Equador,112x235
+68c438c57d246e337e1b8440cedc6e79,60 - Clube Harmonia,113x234
+5b858760b88b04bcb0d87cef00d373fd,67 - Maestro Chiafarelli,116x234
+96b0f96ec74c06aa021c52bca569be30,237 - Professor Muniz,94x241
+8437798d91a3747c0e02cfe649a4da64,4 - Rua Diogo Moreira,100x236
+0653ceda4ca39f7d20d4e5f094f69490,216 - João Moura 328,109x240
+9464508b2e4316daa5dd3101f27bd70a,202 - Arruda Alvim,110x243
+a264a327062f179272bc433cca140e27,106 - Rua Florida,101x216
+1b67ed170a4d0eb55cc4cd02048b6e60,46 - Rua General Fonseca Telles,114x231
+88eb33722f44dbfa2d14448a73146d0d,66 - Praça Domingos Delascio,117x233
+33142afea930cc3f6a84bebc9371b1db,122 - Rua Baluarte,109x220
+3992c0ba37ef226cfc767b1b38783492,14 - Casa Brasileira,104x230
+b8e242e6cc1b429a2cfcbfffd2724920,45 - Marechal Bitencourt,116x231
+6dc5bf2e566ebca07ead5e692651756e,103 - Rua Hans Oerted,99x216
+f1075869a33b386e71d1d258aec78834,218 - Cemitério Cardeal,105x242
+ac53bd0b59843638d88fc80bc36331b4,226 - Fradique Coutinho 941,102x241
+67e2474c12c4e76e640724b6b2df9f47,12 - Largo de Batata II,99x238
+ab1e9abfe32760aa579e3117d1379d23,235 - CETESB,95x241
+54ac2868522c45fe557701a7479a9352,47 - Suzano,112x231
+9d111e4786bb8a82d3ec943b746ada17,42 - Hotel Unique,114x229
+ca0efc8075b809b6044394a9e6fcb468,121 - Insper,108x221
+d3228d9115241f4a7b64af3e37aa3d6c,118 - Rua Júlio Diniz,105x222
+dcdb0e47fb7f5da965ab086389decf20,18 - Itaú Faria Lima,105x228
+47427f9510e45a259ea837886d1a2da5,119 - Rua Quatá,107x222
+317091c983c9708b98358028cea1e56a,72 - Queluz,118x234
+8cfa4f29685bfe33000124a4b2120bbf,219 - Rua Joaquim Antunes,105x240
+711ed7b509e2f45c0a331d0b753050af,20 - CPTM Cidade Jardim,101x228
+36968bf81acf4538806aaac18619d2a9,120 - Rua Gomes de Carvalho,107x221
+e8db6e3a9d079cff318672b15bde7b7e,113 - Rua Andrade Pertence,108x218
+cce41be753575b400b18adfa3e6aa6f8,61 - Venezuela,110x237
+3634427f0d34308a6f668b4b25809461,123 - Rua Egito,110x223
+3fbf5c644236a6ed5162e9977843a8cf,241 - CPTM Cidade Universitária,90x242
+69b1b0b07a538b3ff6a2341d95ebdd71,48 - Itacema,110x231
+2c8c7ba223a12aa424f570f944b3da21,21 - Parque do Povo portão 1,102x226
+a184be7cebbd19aeaf8f06533b75a637,222 - Rua Horácio Lane,103x242
+98e4a18c08cdf62ce352fb2ac995d61f,133 - Avenida Ibirapuera,120x223
+44882e0c74acb2b0ae6bca5b2f62a896,32 - Pq. Ibirapuera Portão 07,114x225
+11371a861ede1ad594367e1e48424eb1,73 - Ginásio Ibirapuera,120x233
+d1909e7c217987c742de3610a52e0e73,75 - Viaduto Tutóia,123x231
+8169e7c9f9eb302a5f7e65eb4c471b6a,100 - Itaú Cultural,125x236
+4aa780c04d73a9bf4edcc9ec7f00831d,31 - Jacques Felix,111x225
+773afb611e38af1a96db7e5905565c6d,149 - Rua Afonso de Freitas,126x233
+a6d61a23267a2600f4d045744a969ef6,126 - Graúna,111x220
+903edb1c522050547a4cb303d4930134,129 - Sabiá,114x220
+e47c90f3fc2c0bf58240a3c666454225,124 - Praça PereIra Coutinho,112x223
+56aea28d68c9954c8332ccefb336b774,96 - Tutóia,122x234
+42b2966fae259c488ce432dbe7bfac70,44 - Pq. Ibirapuera Portão 09,118x231
+a92e6a94f00f6a4d32f064e5b559aa07,132 - Pq. Ibirapuera Portão 05,120x224
+3057225cf52c188f4fbf10017c5fd232,70 - Alameda Casa Branca,117x237
+aab050b120ca57dfbe124f6201d6395a,13 - Esporte Clube Pinheiros Funcionários,101x231
+160414bc34f6010b07361044a0be9cc5,49 - Tapinás,108x230
+c07a5625db2c37d2bf883be0732affd4,231 - Instituto Tomie Ohtake,98x240
+d82bbcc07e046768932953b0937145e2,41 - Paróquia São Gabriel,112x230
+003c832d084651a62af515b0a330eb55,239 - Avenida Antônio Batuira,92x242
+0550eb4a3fe8ad2b4a47bcd87fa2c38a,238 - Avenida dos Semaneiros,93x244
+baa3b7d5cea17c3448c4754bcac1a469,240 - Praça Panamericana,92x244
+bd233a0384da561caa9394e82cb3d4b8,63 - Club Athletico Paulistano,113x237
+5d601ec3033419246cb37726e01f1a5d,33 - Pq. Ibirapuera Portão 08,114x227

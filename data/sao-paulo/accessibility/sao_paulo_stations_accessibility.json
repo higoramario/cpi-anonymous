@@ -1,0 +1,509 @@
+{
+  "stations": [
+    {
+      "station_id": 1,
+      "out_accessibility": 36.983982551481645,
+      "in_accessibility": 36.98298561682887
+    },
+    {
+      "station_id": 3,
+      "out_accessibility": 40.685005644584926,
+      "in_accessibility": 16.703454661634765
+    },
+    {
+      "station_id": 4,
+      "out_accessibility": 22.201417441965695,
+      "in_accessibility": 17.62362971639949
+    },
+    {
+      "station_id": 5,
+      "out_accessibility": 36.53036880512218,
+      "in_accessibility": 21.675741497577036
+    },
+    {
+      "station_id": 6,
+      "out_accessibility": 19.783617892560912,
+      "in_accessibility": 14.414303767990873
+    },
+    {
+      "station_id": 7,
+      "out_accessibility": 33.498865554298376,
+      "in_accessibility": 31.99633664639803
+    },
+    {
+      "station_id": 10,
+      "out_accessibility": 39.811135294891216,
+      "in_accessibility": 42.529848242969315
+    },
+    {
+      "station_id": 11,
+      "out_accessibility": 45.199372501033245,
+      "in_accessibility": 26.12185175700026
+    },
+    {
+      "station_id": 12,
+      "out_accessibility": 45.199372501033245,
+      "in_accessibility": 26.12185175700026
+    },
+    {
+      "station_id": 13,
+      "out_accessibility": 43.44748579065623,
+      "in_accessibility": 42.19897895195228
+    },
+    {
+      "station_id": 14,
+      "out_accessibility": 38.94722873883808,
+      "in_accessibility": 45.37796697285766
+    },
+    {
+      "station_id": 15,
+      "out_accessibility": 40.925044436122825,
+      "in_accessibility": 55.635721918379765
+    },
+    {
+      "station_id": 16,
+      "out_accessibility": 49.908556143668285,
+      "in_accessibility": 28.276640352970524
+    },
+    {
+      "station_id": 17,
+      "out_accessibility": 37.571199168090935,
+      "in_accessibility": 33.26454801922684
+    },
+    {
+      "station_id": 18,
+      "out_accessibility": 40.482535920304,
+      "in_accessibility": 29.26229822830405
+    },
+    {
+      "station_id": 19,
+      "out_accessibility": 50.20031003648864,
+      "in_accessibility": 36.52038565553034
+    },
+    {
+      "station_id": 20,
+      "out_accessibility": 19.131305388219534,
+      "in_accessibility": 34.58844049224986
+    },
+    {
+      "station_id": 21,
+      "out_accessibility": 15.999999999999998,
+      "in_accessibility": 24.575869334258726
+    },
+    {
+      "station_id": 22,
+      "out_accessibility": 35.67892230738359,
+      "in_accessibility": 31.275926985134063
+    },
+    {
+      "station_id": 23,
+      "out_accessibility": 31.12047909235322,
+      "in_accessibility": 9.68201229013247
+    },
+    {
+      "station_id": 24,
+      "out_accessibility": 32.65058187219229,
+      "in_accessibility": 13.729697420562731
+    },
+    {
+      "station_id": 25,
+      "out_accessibility": 24.17968756570302,
+      "in_accessibility": 34.4189715031248
+    },
+    {
+      "station_id": 26,
+      "out_accessibility": 49.43699446509942,
+      "in_accessibility": 39.798963101075834
+    },
+    {
+      "station_id": 27,
+      "out_accessibility": 58.70742489770965,
+      "in_accessibility": 42.61958808803776
+    },
+    {
+      "station_id": 28,
+      "out_accessibility": 49.15202560973669,
+      "in_accessibility": 39.31180642324424
+    },
+    {
+      "station_id": 29,
+      "out_accessibility": 44.181156889803134,
+      "in_accessibility": 29.140777195248045
+    },
+    {
+      "station_id": 30,
+      "out_accessibility": 32.349184050209686,
+      "in_accessibility": 35.321442454923265
+    },
+    {
+      "station_id": 35,
+      "out_accessibility": 22.46475776102536,
+      "in_accessibility": 24.91297534048519
+    },
+    {
+      "station_id": 36,
+      "out_accessibility": 47.66647038396792,
+      "in_accessibility": 28.122250299085323
+    },
+    {
+      "station_id": 38,
+      "out_accessibility": 25.428655918651938,
+      "in_accessibility": 50.74515591851499
+    },
+    {
+      "station_id": 40,
+      "out_accessibility": 34.46237821259197,
+      "in_accessibility": 33.778732117201585
+    },
+    {
+      "station_id": 41,
+      "out_accessibility": 62.81204951290866,
+      "in_accessibility": 62.83094422004858
+    },
+    {
+      "station_id": 42,
+      "out_accessibility": 69.72410808745097,
+      "in_accessibility": 79.77585549665179
+    },
+    {
+      "station_id": 45,
+      "out_accessibility": 64.98200127855502,
+      "in_accessibility": 84.77617024389585
+    },
+    {
+      "station_id": 46,
+      "out_accessibility": 51.15835570612262,
+      "in_accessibility": 43.463719552651774
+    },
+    {
+      "station_id": 47,
+      "out_accessibility": 45.063899811866754,
+      "in_accessibility": 61.9590741264022
+    },
+    {
+      "station_id": 48,
+      "out_accessibility": 21.82037172867799,
+      "in_accessibility": 23.194546551373765
+    },
+    {
+      "station_id": 49,
+      "out_accessibility": 25.742661109261796,
+      "in_accessibility": 35.3189183465402
+    },
+    {
+      "station_id": 50,
+      "out_accessibility": 16.170804290746148,
+      "in_accessibility": 17.806510198246013
+    },
+    {
+      "station_id": 51,
+      "out_accessibility": 32.87577524112148,
+      "in_accessibility": 60.627897042500194
+    },
+    {
+      "station_id": 53,
+      "out_accessibility": 55.495608310841085,
+      "in_accessibility": 52.05741396641812
+    },
+    {
+      "station_id": 54,
+      "out_accessibility": 42.08151548268206,
+      "in_accessibility": 80.33450415332935
+    },
+    {
+      "station_id": 55,
+      "out_accessibility": 44.5634792452748,
+      "in_accessibility": 73.15441343865001
+    },
+    {
+      "station_id": 56,
+      "out_accessibility": 38.136824468104344,
+      "in_accessibility": 54.179917623675905
+    },
+    {
+      "station_id": 57,
+      "out_accessibility": 58.665170570152796,
+      "in_accessibility": 34.7749441724189
+    },
+    {
+      "station_id": 58,
+      "out_accessibility": 80.0730065931116,
+      "in_accessibility": 95.47481845826809
+    },
+    {
+      "station_id": 60,
+      "out_accessibility": 20.37106100702017,
+      "in_accessibility": 41.69410472629672
+    },
+    {
+      "station_id": 61,
+      "out_accessibility": 81.27888685829423,
+      "in_accessibility": 83.24922850354879
+    },
+    {
+      "station_id": 62,
+      "out_accessibility": 61.64901365292594,
+      "in_accessibility": 40.97166657732041
+    },
+    {
+      "station_id": 63,
+      "out_accessibility": 71.72439222517292,
+      "in_accessibility": 23.931105621255764
+    },
+    {
+      "station_id": 64,
+      "out_accessibility": 58.00967593336843,
+      "in_accessibility": 51.682807037917165
+    },
+    {
+      "station_id": 65,
+      "out_accessibility": 83.0478195978335,
+      "in_accessibility": 78.8180563158582
+    },
+    {
+      "station_id": 66,
+      "out_accessibility": 64.96377417680509,
+      "in_accessibility": 77.65429774282968
+    },
+    {
+      "station_id": 67,
+      "out_accessibility": 60.61189934287637,
+      "in_accessibility": 52.98058577048078
+    },
+    {
+      "station_id": 68,
+      "out_accessibility": 42.954391333605656,
+      "in_accessibility": 30.979708420855545
+    },
+    {
+      "station_id": 69,
+      "out_accessibility": 41.651531992473316,
+      "in_accessibility": 95.99292945435408
+    },
+    {
+      "station_id": 70,
+      "out_accessibility": 21.585544864752432,
+      "in_accessibility": 61.54757699146626
+    },
+    {
+      "station_id": 72,
+      "out_accessibility": 29.999000717270356,
+      "in_accessibility": 24.7462394344472
+    },
+    {
+      "station_id": 77,
+      "out_accessibility": 53.44378600109324,
+      "in_accessibility": 63.89140994373415
+    },
+    {
+      "station_id": 80,
+      "out_accessibility": 56.6500772495857,
+      "in_accessibility": 35.16229992571281
+    },
+    {
+      "station_id": 101,
+      "out_accessibility": 46.58481822606563,
+      "in_accessibility": 35.453894949876414
+    },
+    {
+      "station_id": 102,
+      "out_accessibility": 47.19772256925564,
+      "in_accessibility": 49.62397315425005
+    },
+    {
+      "station_id": 103,
+      "out_accessibility": 12.293118011826207,
+      "in_accessibility": 47.81814858132672
+    },
+    {
+      "station_id": 105,
+      "out_accessibility": 39.82366101663998,
+      "in_accessibility": 28.00194532346087
+    },
+    {
+      "station_id": 106,
+      "out_accessibility": 57.896427809620114,
+      "in_accessibility": 49.08745422256281
+    },
+    {
+      "station_id": 107,
+      "out_accessibility": 51.51817472182253,
+      "in_accessibility": 56.350667043354086
+    },
+    {
+      "station_id": 113,
+      "out_accessibility": 38.32603231527007,
+      "in_accessibility": 51.066773503034746
+    },
+    {
+      "station_id": 114,
+      "out_accessibility": 41.54677976488712,
+      "in_accessibility": 39.60431170293338
+    },
+    {
+      "station_id": 115,
+      "out_accessibility": 33.450810549623476,
+      "in_accessibility": 46.214858949612776
+    },
+    {
+      "station_id": 116,
+      "out_accessibility": 48.40041583739665,
+      "in_accessibility": 55.69027778552829
+    },
+    {
+      "station_id": 118,
+      "out_accessibility": 42.006879120517475,
+      "in_accessibility": 44.39434560435653
+    },
+    {
+      "station_id": 119,
+      "out_accessibility": 34.618886412668985,
+      "in_accessibility": 27.771334267990632
+    },
+    {
+      "station_id": 120,
+      "out_accessibility": 22.879124027310038,
+      "in_accessibility": 28.057893557297195
+    },
+    {
+      "station_id": 121,
+      "out_accessibility": 29.64062221063414,
+      "in_accessibility": 50.9939453078527
+    },
+    {
+      "station_id": 122,
+      "out_accessibility": 47.04791990950682,
+      "in_accessibility": 52.00110712507121
+    },
+    {
+      "station_id": 123,
+      "out_accessibility": 25.035326195656168,
+      "in_accessibility": 45.83693018681673
+    },
+    {
+      "station_id": 201,
+      "out_accessibility": 64.673664499016,
+      "in_accessibility": 19.81239851030038
+    },
+    {
+      "station_id": 202,
+      "out_accessibility": 7.999999999999998,
+      "in_accessibility": 48.972229588077965
+    },
+    {
+      "station_id": 211,
+      "out_accessibility": 54.34804156461808,
+      "in_accessibility": 33.17589049304121
+    },
+    {
+      "station_id": 214,
+      "out_accessibility": 61.26081326369725,
+      "in_accessibility": 70.67728582470477
+    },
+    {
+      "station_id": 216,
+      "out_accessibility": 38.79139268432893,
+      "in_accessibility": 85.80373233867992
+    },
+    {
+      "station_id": 217,
+      "out_accessibility": 36.931122563726134,
+      "in_accessibility": 59.70247066710898
+    },
+    {
+      "station_id": 218,
+      "out_accessibility": 38.956775914191965,
+      "in_accessibility": 63.28130367846871
+    },
+    {
+      "station_id": 219,
+      "out_accessibility": 36.551617347589,
+      "in_accessibility": 19.116360638675093
+    },
+    {
+      "station_id": 221,
+      "out_accessibility": 43.68798741133504,
+      "in_accessibility": 63.05048406948696
+    },
+    {
+      "station_id": 222,
+      "out_accessibility": 89.2473353027417,
+      "in_accessibility": 93.9086103023321
+    },
+    {
+      "station_id": 225,
+      "out_accessibility": 67.48610616612767,
+      "in_accessibility": 30.127847567215102
+    },
+    {
+      "station_id": 226,
+      "out_accessibility": 84.33755731277218,
+      "in_accessibility": 117.35614888297091
+    },
+    {
+      "station_id": 229,
+      "out_accessibility": 37.71295203966514,
+      "in_accessibility": 60.702345224692614
+    },
+    {
+      "station_id": 230,
+      "out_accessibility": 37.90307440131765,
+      "in_accessibility": 37.26371587193951
+    },
+    {
+      "station_id": 231,
+      "out_accessibility": 35.51489811433357,
+      "in_accessibility": 14.965876688594998
+    },
+    {
+      "station_id": 232,
+      "out_accessibility": 36.791402863580466,
+      "in_accessibility": 44.761362842954696
+    },
+    {
+      "station_id": 233,
+      "out_accessibility": 28.083825524538238,
+      "in_accessibility": 37.2025657785441
+    },
+    {
+      "station_id": 234,
+      "out_accessibility": 72.52367074051418,
+      "in_accessibility": 14.148638087668594
+    },
+    {
+      "station_id": 235,
+      "out_accessibility": 37.510436253343286,
+      "in_accessibility": 26.124290459575604
+    },
+    {
+      "station_id": 236,
+      "out_accessibility": 61.126839774000835,
+      "in_accessibility": 74.94692791280036
+    },
+    {
+      "station_id": 237,
+      "out_accessibility": 59.49266131950824,
+      "in_accessibility": 64.56075184887413
+    },
+    {
+      "station_id": 238,
+      "out_accessibility": 60.3229268219071,
+      "in_accessibility": 51.277832119352645
+    },
+    {
+      "station_id": 239,
+      "out_accessibility": 62.47042664610935,
+      "in_accessibility": 54.590459622072544
+    },
+    {
+      "station_id": 240,
+      "out_accessibility": 82.26404289143196,
+      "in_accessibility": 62.72639985740589
+    },
+    {
+      "station_id": 241,
+      "out_accessibility": 28.294752014512227,
+      "in_accessibility": 25.232838706061557
+    }
+  ]
+}
